@@ -54,3 +54,11 @@ If the answer is in memory files, read them. If the user asks for session histor
 - Do not store secrets, tokens, private session material, or raw logs.
 - Do not append chronology. Curate concise facts.
 - Do not create all files by default; create lazily when there is something useful to save.
+
+## Handoffs
+
+- If the requested memory belongs in repo docs, glossary, or ADRs, route to `domain-model`.
+- If the user asks for old session history or transcript search, route to the appropriate search tool instead of duplicating recall behavior.
+- If the lesson is uncertain or high-impact, route to `review` before preserving it.
+- If the memory is about an unresolved recurring failure, route to `diagnose`.
+- If the memory should become future work, route to `plan` rather than storing it as a vague note.
