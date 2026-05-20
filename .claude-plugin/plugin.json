@@ -1,0 +1,11 @@
+{
+  "name": "repo-memory",
+  "description": "Lightweight per-repo memory router for runbooks, theory, learnings, and recall tools.",
+  "version": "0.1.0",
+  "author": {
+    "name": "cbzehner",
+    "email": "chris@cbzehner.com"
+  },
+  "repository": "https://github.com/cbzehner/skill-repo-memory",
+  "license": "MIT"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "repo-memory",
+  "version": "0.1.0",
+  "description": "Lightweight per-repo memory router for runbooks, theory, learnings, and recall tools.",
+  "author": {
+    "name": "cbzehner",
+    "email": "chris@cbzehner.com",
+    "url": "https://github.com/cbzehner"
+  },
+  "homepage": "https://github.com/cbzehner/skill-repo-memory",
+  "repository": "https://github.com/cbzehner/skill-repo-memory",
+  "license": "MIT",
+  "keywords": ["memory", "runbook", "theory", "learnings", "recall"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Repo Memory",
+    "shortDescription": "Curated per-repo memory.",
+    "longDescription": "Routes repo memory updates across runbook, theory, learnings, and recall while avoiding always-active memory bloat.",
+    "developerName": "cbzehner",
+    "category": "Memory",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://github.com/cbzehner/skill-repo-memory"
+  }
+}
