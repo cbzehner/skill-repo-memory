@@ -1,10 +1,10 @@
 {
   "name": "repo-memory",
-  "description": "Lightweight per-repo memory router for runbooks, theory, learnings, and recall tools.",
-  "version": "0.1.0",
+  "description": "Maintain lightweight per-repo memory without making memory always active. Use when updating a runbook, theory, learnings, durable project facts, or when the user asks what should be remembered for future sessions. Distinct from seance or qmd search: this curates memory artifacts; search tools retrieve history.",
+  "version": "1.0.0",
   "author": {
     "name": "cbzehner",
-    "email": "chris@cbzehner.com"
+    "url": "https://github.com/cbzehner"
   },
   "repository": "https://github.com/cbzehner/skill-repo-memory",
   "license": "MIT"
