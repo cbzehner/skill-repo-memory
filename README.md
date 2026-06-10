@@ -1,3 +1,5 @@
+> **Moved:** this skill now lives in [cbzehner/skills](https://github.com/cbzehner/skills) under `skills/repo-memory/`. This repo is archived and read-only.
+
 # Repo Memory
 
 Maintain lightweight memory for a repo without making every session carry it by default. The skill records runbooks, theories, learnings, and durable project facts.
