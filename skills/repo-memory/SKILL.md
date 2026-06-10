@@ -39,11 +39,11 @@ Capture why the current approach exists and how evidence changed the strategy. R
 
 ### `learning`
 
-Record reusable lessons from a mistake, review finding, or repeated pattern. Keep each learning short and general enough to transfer.
+Record reusable lessons from a mistake, review finding, or repeated pattern. Keep each learning short and general enough to transfer. Record only what was demonstrated — a failure actually hit, a command actually needed — not things merely discussed; coverage is not evidence.
 
 ### `audit`
 
-Read current memory files and remove stale, duplicate, or overly specific notes. Do not delete uncertain notes without saying why.
+Read current memory files and remove stale, duplicate, or overly specific notes. Do not delete uncertain notes without saying why. When a note is contradicted rather than stale, mark it superseded with a one-line pointer to what replaced it instead of deleting — how the understanding evolved is itself signal.
 
 ### `recall`
 
@@ -62,3 +62,7 @@ If the answer is in memory files, read them. If the user asks for session histor
 - If the lesson is uncertain or high-impact, route to `review` before preserving it.
 - If the memory is about an unresolved recurring failure, route to `diagnose`.
 - If the memory should become future work, route to `plan` rather than storing it as a vague note.
+
+## Credits
+
+- The evidence gate for learnings (record only what was demonstrated) and supersession-over-deletion in audits are adapted from the learning-record format in Matt Pocock's [`teach`](https://github.com/mattpocock/skills/tree/main/skills/productivity/teach) skill.

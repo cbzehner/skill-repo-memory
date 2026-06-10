@@ -49,6 +49,10 @@ LICENSE
 
 These repos are public. Keep private repo names, secrets, customer data, raw logs, cookies, and absolute filesystem paths out of examples.
 
+## Credits
+
+- The evidence gate for learnings (record only what was demonstrated) and supersession-over-deletion in audits are adapted from the learning-record format in Matt Pocock's [`teach`](https://github.com/mattpocock/skills/tree/main/skills/productivity/teach) skill.
+
 ## License
 
 MIT
